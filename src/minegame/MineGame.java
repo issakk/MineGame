@@ -13,6 +13,7 @@ public class MineGame
 {
     static int blockWidth = 40;
     static int boomNum = 5;
+    //test git
 
     public static void main(String[] args)
     {
